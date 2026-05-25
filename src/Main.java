@@ -6,5 +6,6 @@ public class Main {
         System.out.println("INGRESA TU NOMBRE:");
         String nombre = sc.nextLine();
         System.out.println("Hola " + nombre + " bienvenido");
+        System.out.println(nombre + ", " + "¿Te gusta el pan?");
     }
 }
